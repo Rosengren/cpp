@@ -56,7 +56,7 @@ public class main {
 		hsSort.printArray();
 
 		totalTime = (endTime - startTime) / 1000;
-		System.out.println("\n HeapSort runtime = " + totalTime + " microseconds\n");
+		System.out.println("\nHeapSort runtime = " + totalTime + " microseconds\n");
 
 		/*************************/		
 
@@ -79,7 +79,7 @@ public class main {
 		msSort.printList();
 
 		totalTime = (endTime - startTime) / 1000;
-		System.out.println("\n HeapSort runtime = " + totalTime + " microseconds\n");
+		System.out.println("\nHeapSort runtime = " + totalTime + " microseconds\n");
 
 
 		/******************************/
